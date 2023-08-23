@@ -3,6 +3,11 @@ package com.teachmeskills.lesson6.part_2.model;
 
 import java.util.Objects;
 
+/**
+ * Добавил поля в классе Student
+ * создал конструктор для инициализации
+ * переопределил метод toString, equals и hashCode
+ */
 public class Student {
 
     public String name;

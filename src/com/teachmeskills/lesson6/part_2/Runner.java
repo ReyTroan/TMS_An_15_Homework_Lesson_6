@@ -2,6 +2,10 @@ package com.teachmeskills.lesson6.part_2;
 
 import com.teachmeskills.lesson6.part_2.model.Student;
 
+/**
+ * Создал 3 экземляра класса с данными студента на входе
+ * сравнил студентов с помощью метода equals
+ */
 public class Runner {
 
     public static void main(String[] args) {
